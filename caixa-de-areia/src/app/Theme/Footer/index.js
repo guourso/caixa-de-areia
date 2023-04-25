@@ -1,6 +1,7 @@
 export default function Footer() {
     return (
-      <header className={styles.header}>
-      </header>
+      <footer className={styles.footer}>
+        
+      </footer>
     );
   }
